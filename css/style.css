@@ -1,0 +1,174 @@
+.container{
+    width: 100%;
+}
+
+
+
+.mao{
+    width: 350px;
+    height: 350px;
+}
+
+.body{
+    background-color:white;
+
+}
+
+
+
+.announce{
+   
+    width: 60%;
+    text-align: center;
+}
+   
+        
+
+.ment1{
+    float:left;
+    width: 15%;
+    text-align: center;
+    
+}
+
+    
+  
+
+
+a:visited{
+background-color: burlywood;
+}
+a:hover{
+    text-decoration: none;
+    background-color:grey;
+
+}
+
+    a:link  {color:white; background-color:transparent; text-decoration:none}
+    a:visited {color:blue; background-color:transparent; text-decoration:none}
+    a:hover   {color:tan; background-color:transparent; text-decoration:underline}
+    a:active  {color:yellow; background-color:transparent; text-decoration:underline}
+  
+    .footer-dist{
+        background-color: #292c2f;
+    }
+
+
+
+#footer {
+    background-color:darkgray;
+    color:black;
+    width:100%;
+    height:100%;
+    text-align:center;
+    padding:20px; 
+    
+}
+
+.h1{
+   background-color:lightslategray;
+    width: 100%;
+    height: 40%;
+    text-align: center;
+    padding: 70px;
+    margin-top:30px;
+  
+
+}
+.h3{        
+    background-color:rgb(40, 140, 165);
+    width: 100%;
+    height: 40%;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-color: red;
+    padding:100px;
+    margin-top: 30px;
+            
+           
+
+}
+.margin{
+    margin-top: 30px;
+}
+.h2{
+    text-align: center;
+    background-color: lightgray;
+    float: right;
+    width:50%; 
+    height:50%;
+}
+#Contact{
+    background-color:whitesmoke;
+    width: 100%;
+    height: 60%;
+    text-align: center;
+   padding:  50px 30px;
+  
+ 
+    
+}
+.fieldset{
+    background-color: lightgray;
+    float:right;
+    margin-top: 0px;
+
+    font-family: sans-serif;
+}
+#g{
+    
+     float:left;
+     width: 100%
+ }
+ .fa {
+  
+    font-size: 50px;
+    background-color: visible;
+    text-align: left;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-skype {
+    background: #00aff0;
+    color: white;  
+
+  }
+
+  .img
+  {
+      width: 50%;
+      height: 50%;
+      margin-right: 100px;
+    }
+    .li{
+        color:red;
+    }
